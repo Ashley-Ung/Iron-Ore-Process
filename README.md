@@ -9,4 +9,5 @@ The controller and modules used:
 
 The Iron-Ore Equipment Delivery Process: 
 
-<img width="245" alt="iron ore process" src="https://user-images.githubusercontent.com/62251927/232361087-97647784-7f1f-4eab-902e-bcb5d47a6dfd.PNG">
+<img width="561" alt="Screen Shot 2023-04-16 at 7 36 28 PM" src="https://user-images.githubusercontent.com/62251927/232364556-953908a9-728b-4b18-b4d8-44ace693dfaa.png">
+
