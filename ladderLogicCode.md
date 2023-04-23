@@ -17,5 +17,6 @@ Subroutine: Coke Conveyor Process
 
 Parameters and Local Tags: 
 
-<img width="625" alt="tags" src="https://user-images.githubusercontent.com/62251927/233866565-349254e1-a071-4567-abd0-8802f4821404.PNG">
+<img width="471" alt="tagssss" src="https://user-images.githubusercontent.com/62251927/233867167-23f7f055-0f9c-4528-bdb7-4e415c1f8a76.PNG">
+
 
